@@ -3,7 +3,7 @@
 [![License: MIT OR Apache-2.0](https://img.shields.io/crates/l/clippy.svg)](https://github.com/rust-lang/rust-clippy#license)
 
 A collection of lints to catch common mistakes and improve your
-[Rust](https://github.com/rust-lang/rust) code.
+[Rust](https://github.com/rust-lang/rust) code. Buchclub
 
 [There are over 800 lints included in this crate!](https://rust-lang.github.io/rust-clippy/master/index.html)
 
